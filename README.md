@@ -1,3 +1,3 @@
 # Python-Learning-Journey-and-Practice
 
-[![Uploading Gemini_Generated_Image_8nffa88nffa88nff.png…]()](http://googleusercontent.com/image_generation_content/0)
+![python-journey-practice](assets/python-journey-practice-image.png)
