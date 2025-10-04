@@ -24,3 +24,9 @@ else:
 5. format() method
     print("number1 = {}, number2 = {}".format(number1, number2))
 """
+
+
+if number1 > number2: 
+    print(f"{number1} is greater then {number2}")
+else:
+    print(f"{number2} is greater then {number1}")
