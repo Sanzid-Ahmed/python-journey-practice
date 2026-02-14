@@ -13,3 +13,5 @@ while i < len(nums):
     i += 1
 
  
+while nums:
+    print(nums.pop(0))
