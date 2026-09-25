@@ -1,0 +1,13 @@
+a = (10)
+b = (10,)
+
+
+
+print(type(a))
+print(type(b))
+
+
+"""
+Comma creates the tuple, not the parentheses.
+
+"""
