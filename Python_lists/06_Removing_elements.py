@@ -26,6 +26,10 @@ numbers.remove(20)
 print(numbers)
 
 
+numbers = [10, 20, 40, 20, 30]
+numbers.remove(20)
+print(numbers)
+
 
 """
 1. Find the value 30 and remove it. 
@@ -71,7 +75,7 @@ print(numbers)
 
 
 
-# clesr
+# clear
 # Basic clear
 numbers = [10, 20, 30, 40]
 numbers.clear()
